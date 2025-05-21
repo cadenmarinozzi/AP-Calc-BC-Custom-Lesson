@@ -27,6 +27,9 @@ const App = () => {
       <h1 className="text-5xl font-bold">
         AP Honors Advanced Relativistics BC 1-2
       </h1>
+      <span>
+        By Caden Marinozzi for an AP Calculus class free choice lesson
+      </span>
       <div className="divider" />
       <h2 className="text-4xl font-bold">1. Introduction</h2>
       <Image src={Interstellar} />
@@ -188,7 +191,7 @@ const App = () => {
       </span>
       <span className="text-2xl">
         The equation, or "metric", we will be using today is the simplest, the
-        Schwrarszchild metric (Shwor-zch-eild).
+        Schwrarzschild metric (Shwor-zch-eild).
       </span>
       <Image className="p-4 bg-white" src={Schw} />
       <span className="text-2xl">
